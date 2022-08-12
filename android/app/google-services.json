@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380912089259",
+    "project_id": "firestore-31f60",
+    "storage_bucket": "firestore-31f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380912089259:android:cae1d9b02819bdd38fdfee",
+        "android_client_info": {
+          "package_name": "com.quiz.app.mini_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380912089259-2vlt6p7fesk0a9p38np8u9hd58mptbi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGYiMx2K5O-jQU3I059LTmInStB5iNME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380912089259-2vlt6p7fesk0a9p38np8u9hd58mptbi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
